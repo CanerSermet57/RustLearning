@@ -1,1 +1,1 @@
-C:\Users\Caner\CLionProjects\RustLearning\Examples\minigrep\target\debug\minigrep.exe: C:\Users\Caner\CLionProjects\RustLearning\Examples\minigrep\src\lib.rs C:\Users\Caner\CLionProjects\RustLearning\Examples\minigrep\src\main.rs
+C:\Users\Caner\CLionProjects\RustLearning\Examples\miniGrep\target\debug\miniGrep.exe: C:\Users\Caner\CLionProjects\RustLearning\Examples\miniGrep\src\lib.rs C:\Users\Caner\CLionProjects\RustLearning\Examples\miniGrep\src\main.rs
